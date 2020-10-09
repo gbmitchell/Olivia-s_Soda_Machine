@@ -1,0 +1,10 @@
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\bin\Debug\SodaMachine.exe.config
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\bin\Debug\SodaMachine.exe
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\bin\Debug\SodaMachine.pdb
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.Form1.resources
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.Properties.Resources.resources
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.csproj.GenerateResource.cache
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.csproj.CoreCompileInputs.cache
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.exe
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.pdb
+C:\Users\gbmit\Documents\VS Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.Form2.resources
